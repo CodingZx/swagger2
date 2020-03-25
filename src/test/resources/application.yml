@@ -1,0 +1,8 @@
+swagger:
+  enable: true
+  basePackage: lol.cicco
+  description: 测试Swagger
+  version: 1.0.0
+  email: 123@qq.com
+  contactName: 测试人员
+  url: http://www.baidu.com
